@@ -13,7 +13,7 @@ This project was developed at the 2025 AECtech Boston hackathon.
 - Ethnie Xu | Hart Howerton
 - Ioannis Kopsacheilis | Enemco
 - Nicolas Martinez | /slantis
-- Qiayi Huang | Boston University
+- Qianyi Huang | Yale University
 - Sergey Pigach | CORE studio at Thornton Tomasetti
 - Victor W. Barbosa | Schmidt Hammer Lassen
 
